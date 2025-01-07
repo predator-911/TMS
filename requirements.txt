@@ -3,3 +3,4 @@ diffusers==0.16.1
 Pillow==9.4.0
 torch==2.5.1
 numpy==1.23.5
+tensorflow==2.17.1
