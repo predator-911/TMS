@@ -1,8 +1,7 @@
-
-setuptools>=40.0.0
+setuptools==75.1.0
 streamlit==1.20.0
-diffusers==0.16.1
-Pillow==9.4.0
+diffusers==0.31.0
+Pillow==11.0.0
 torch==2.5.1
-numpy==1.23.5
+numpy==1.26.4
 tensorflow==2.17.1
